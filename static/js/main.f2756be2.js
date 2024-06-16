@@ -6838,23 +6838,23 @@
         (() => {
             var e = t(43),
                 n = t(391);
-            const r = "static/assetss/sphere.jpeg",
-                l = "static/assetss/tetrahedron.jpeg",
-                a = "static/assetss/cube.jpeg",
-                o = "static/assetss/cone.jpeg",
-                u = "static/assetss/cylinder.jpeg",
-                i = "static/assetss/prism.jpeg";
+            const r = "static/assetss/sphere1.jpeg",
+                l = "static/assetss/tetrahedron1.jpeg",
+                a = "static/assetss/cube1.jpeg",
+                o = "static/assetss/cone1.jpeg",
+                u = "static/assetss/cylinder1.jpeg",
+                i = "static/assetss/prism1.jpeg";
             var s = t(579),
                 c = (function (e) {
                     return (e[(e.circle = 1)] = "circle"), (e[(e.triangle = 2)] = "triangle"), (e[(e.square = 4)] = "square"), e;
                 })(c || {});
             const A = {
                     [c.circle]:
-                        "static/assetss/b.jpeg",
+                        "static/assetss/b1.jpeg",
                     [c.triangle]:
-                        "static/assetss/s.jpeg",
+                        "static/assetss/s1.jpeg",
                     [c.square]:
-                        "static/assetss/k.jpeg",
+                        "static/assetss/k1.jpeg",
                 },
                 g = { [c.circle]: "B", [c.triangle]: "S", [c.square]: "K" };
             var f = (function (e) {
